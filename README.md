@@ -1,5 +1,5 @@
 # 💫 Hello👋, I'm ASVATHAMA
-I cureently pursing my Bachelors degree in Artificial Intelligence and Data Science<br>As a Artificial Intelligence student.<br>I consider myself a responsible<br>and orderly person.<br>I am looking forward to my first<br>work experience.<br>Career Objective<br> Motivated and detail-oriented<br>B.Tech student in Artificial<br>Intelligence and Data Science,<br>with a growing proficiency in<br>Python and Cloud Computing.<br>Eager to contribute to real-world<br>projects and leverage analytical<br>skills to solve complex problems
+I cureently pursing my Bachelors degree in Artificial Intelligence and Data Science<br>As a Artificial Intelligence student.<br>I consider myself a responsible<br>and orderly person.<br>I am looking forward to my first<br>work experience.<br>'Career Objective'<br> Motivated and detail-oriented<br>B.Tech student in Artificial<br>Intelligence and Data Science,<br>with a growing proficiency in<br>Python and Cloud Computing.<br>Eager to contribute to real-world<br>projects and leverage analytical<br>skills to solve complex problems
 
 
 ## 🌐 Socials:
