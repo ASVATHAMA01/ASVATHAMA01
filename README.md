@@ -15,7 +15,7 @@ I cureently pursing my Bachelors degree in Artificial Intelligence and Data Scie
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ASVATHAMA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
